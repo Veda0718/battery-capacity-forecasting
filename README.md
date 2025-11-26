@@ -19,7 +19,7 @@ Python, Pandas, NumPy, Scikit-Learn, XGBoost, Matplotlib, Seaborn, SHAP
  - Trained and evaluated regression models (Linear Regression, Random Forest, XGBoost) to predict capacity_Ah.
  - Interpreted results using feature importance and SHAP to explain degradation drivers.
 
-Results
+## Results
 | Model | R² | RMSE |
 |---|---|---|
 | Linear Regression | 0.85 | 0.039 |
